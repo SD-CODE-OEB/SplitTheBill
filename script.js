@@ -19,9 +19,9 @@ function clicked(){
         result.style.fontSize='48px'
         result.innerHTML=(ans +" each");
     }
-    window.setInterval(() => {
-        window.location.reload();
-        a.value="";
-        p.value="";
-    }, 2500);
+    // window.setInterval(() => {
+    //     window.location.reload();
+    //     a.value="";
+    //     p.value="";
+    // }, 2500);
 }
